@@ -3,7 +3,7 @@ description: '1'
 steps:
   - course: githubtraining/introduction-to-github
     description: The first step in your course
-  - link: 'https://lab.github.com'
+  - link: 'https://www.youtube.com/channel/UCNw10aq2U565AWc0LVyhJKw?view_as=subscriber'
     title: Check out Learning Lab for more courses!
     description: >-
       There are many more courses available on Learning Lab for you to check
